@@ -1,10 +1,10 @@
 # 💫 About Me:
-Thank you for visiting my account!
-I have over three years of experience working in four different companies as a backend developer, primarily specializing in Python and the Django framework. I have a strong background in SQL and NoSQL databases, various algorithms, and Linux environments.
-In addition to backend development, I have also gained solid experience in JavaScript and Vue.js over the past six months, allowing me to work effectively across different layers of web applications.
-I am passionate about learning and continuously improving my skills. I adapt quickly to different teams and environments, ensuring smooth collaboration. Being organized, responsible, and detail-oriented, I take pride in delivering high-quality work.
-I enjoy taking on new challenges and expanding my technical expertise while keeping up with the latest industry trends. My ability to work under pressure and meet deadlines has played a key role in my professional growth.
-Feel free to explore my repositories and projects. I am always open to collaboration and excited to connect with fellow developers. If you have any questions or want to discuss potential opportunities, feel free to reach out!
+Thank you for visiting my account!<br>
+I have over three years of experience working in four different companies as a backend developer, primarily specializing in Python and the Django framework. I have a strong background in SQL and NoSQL databases, various algorithms, and Linux environments.<br>
+In addition to backend development, I have also gained solid experience in JavaScript and Vue.js over the past six months, allowing me to work effectively across different layers of web applications.<br>
+I am passionate about learning and continuously improving my skills. I adapt quickly to different teams and environments, ensuring smooth collaboration. Being organized, responsible, and detail-oriented, I take pride in delivering high-quality work.<br>
+I enjoy taking on new challenges and expanding my technical expertise while keeping up with the latest industry trends. My ability to work under pressure and meet deadlines has played a key role in my professional growth.<br>
+Feel free to explore my repositories and projects. I am always open to collaboration and excited to connect with fellow developers. If you have any questions or want to discuss potential opportunities, feel free to reach out!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/parsa-parvizi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@parsa.dev.python) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/parsa-parvizi) 
