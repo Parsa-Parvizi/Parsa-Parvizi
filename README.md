@@ -29,5 +29,12 @@ Feel free to explore my repositories and projects. I am always open to collabora
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/Parsa-Parvizi/contributions)
 ---
 [![](https://visitcount.itsvg.in/api?id=parsa-parvizi&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✨ GitHub Highlight
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/Parsa-Parvizi/highlights)
 
+### ✍️ GitHub Archtype
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/Parsa-Parvizi/archtype)
+
+### 💻 GitHub Dreams
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/Parsa-Parvizi/quirk)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
