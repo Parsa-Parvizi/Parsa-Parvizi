@@ -15,6 +15,8 @@ Feel free to explore my repositories and projects. I am always open to collabora
 ![](https://github-readme-stats.vercel.app/api?username=parsa-parvizi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parsa-parvizi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-parvizi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/Parsa-Parvizi/stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parsa-parvizi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -23,8 +25,8 @@ Feel free to explore my repositories and projects. I am always open to collabora
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parsa-parvizi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=parsa-parvizi&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/Parsa-Parvizi/contributions)
 ---
 [![](https://visitcount.itsvg.in/api?id=parsa-parvizi&icon=0&color=0)](https://visitcount.itsvg.in)
 
