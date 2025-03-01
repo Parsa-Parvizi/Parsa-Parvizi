@@ -25,7 +25,8 @@ Feel free to explore my repositories and projects. I am always open to collabora
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parsa-parvizi&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
+![](https://github-contributor-stats.vercel.app/api?username=parsa-parvizi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/Parsa-Parvizi/contributions)
 ---
 [![](https://visitcount.itsvg.in/api?id=parsa-parvizi&icon=0&color=0)](https://visitcount.itsvg.in)
